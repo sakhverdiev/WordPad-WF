@@ -1,0 +1,10 @@
+C:\Users\Senan\source\repos\WordPadWF\WordPadWF\bin\Debug\WordPadWF.exe.config
+C:\Users\Senan\source\repos\WordPadWF\WordPadWF\bin\Debug\WordPadWF.exe
+C:\Users\Senan\source\repos\WordPadWF\WordPadWF\bin\Debug\WordPadWF.pdb
+C:\Users\Senan\source\repos\WordPadWF\WordPadWF\obj\Debug\WordPadWF.csproj.AssemblyReference.cache
+C:\Users\Senan\source\repos\WordPadWF\WordPadWF\obj\Debug\WordPadWF.Form1.resources
+C:\Users\Senan\source\repos\WordPadWF\WordPadWF\obj\Debug\WordPadWF.Properties.Resources.resources
+C:\Users\Senan\source\repos\WordPadWF\WordPadWF\obj\Debug\WordPadWF.csproj.GenerateResource.cache
+C:\Users\Senan\source\repos\WordPadWF\WordPadWF\obj\Debug\WordPadWF.csproj.CoreCompileInputs.cache
+C:\Users\Senan\source\repos\WordPadWF\WordPadWF\obj\Debug\WordPadWF.exe
+C:\Users\Senan\source\repos\WordPadWF\WordPadWF\obj\Debug\WordPadWF.pdb
